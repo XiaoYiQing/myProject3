@@ -12,4 +12,8 @@ public class TestClass1 {
 	public TestClass1(int i, int j, String name){
 		this.name = name;
 	}
+	
+	public int add(){
+		return i+j;
+	}
 }
