@@ -10,4 +10,8 @@ public class TestClass1 {
 	public int add(){
 		return i+j;
 	}
+	
+	public int minus(){
+		return i-j;
+	}
 }
