@@ -6,4 +6,8 @@ public class TestClass1 {
 		this.i = i;
 		this.j = j;
 	}
+	
+	public int add(){
+		return i+j;
+	}
 }
